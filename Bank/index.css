@@ -1,0 +1,42 @@
+.x{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.y{
+    text-align: center;
+}
+.ad{
+    text-align: right;
+}
+
+.da{
+    text-align: right;
+}
+input{
+    margin-top: 15px;
+}
+label{
+    margin-top: 15px;
+}
+
+select{
+    margin-top: 15px;
+}
+
+.si{
+    text-align: right;
+}
+.th{
+    margin-top: 15px;
+    text-align: center;
+}
+
+body{
+    background-color: aqua;
+
+}
+
+.z{
+    text-decoration: underline;
+}
